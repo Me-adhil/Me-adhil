@@ -44,9 +44,9 @@
 
 ## 📫 Contact Me
 
-- **Email**: [adhilp3156@gmail.com] 
-- **LinkedIn**: [https://www.linkedin.com/in/muhammed-adhil-b17019350/]
-- **GitHub**: [github.com/Me-adhil](https://github.com/Me-adhil)
+- **Email**: adhilp3156@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/muhammed-adhil-b17019350/
+- **GitHub**: github.com/Me-adhil](https://github.com/Me-adhil
 
 ---
 
